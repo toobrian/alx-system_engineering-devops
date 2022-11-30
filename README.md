@@ -1,1 +1,1 @@
-# this repo contains all the code related to the task of shell  basics
+this script prints the absolute pathname of the current working directory
