@@ -1,1 +1,2 @@
-scripts dealing with standard output and input redirection.pipe,filter
+scripts dealing with standard output and input redirections
+this should work
