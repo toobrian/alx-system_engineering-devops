@@ -1,2 +1,2 @@
-#!/BIN/BASH
+#!/bin/bash
 su -l betty
